@@ -9,11 +9,18 @@
 - Finally the webapp is deployed on heroku cloud. Click this [link](http://bhp-online.herokuapp.com/) to use this app.
 
 # Installation:
-- To install this project on your local use the following commands:
-``` git init
+- To install this project on your local system, go to a folder where you want to create this project.
+- Then open the command prompt and type the following commands:
 ```
+  git init
 ```
-  git clone https://github.com/sudharsanbaskars/Banglore_Home_Price_Prediction/edit/main/README.md
+
+```
+  git clone https://github.com/sudharsanbaskars/Banglore_Home_Price_Prediction.git
+```
+- After successful installation, Go inside the project folder and use the following command to run the django server on your local syatem.
+```
+ python manage.py runserver
 ```
 
 
