@@ -8,7 +8,7 @@
 - With the help of the trained model, i have created an web application using django as backend, HTML, CSS and Javascript as frontend.
 - Finally the webapp is deployed on heroku cloud. Click this [link](http://bhp-online.herokuapp.com/) to use this app.
 
-# Installation:
+# 🛠Installation:
 - To install this project on your local system, go to a folder where you want to create this project.
 - Then open the command prompt and type the following commands:
 ```
@@ -18,7 +18,7 @@
 ```
   git clone https://github.com/sudharsanbaskars/Banglore_Home_Price_Prediction.git
 ```
-- After successful installation, Go inside the project folder and use the following command to run the django server on your local syatem.
+- After successful installation, Go inside the project folder and use the following command to run the django server on your local system.
 ```
  python manage.py runserver
 ```
