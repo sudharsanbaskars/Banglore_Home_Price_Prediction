@@ -8,7 +8,7 @@
 - With the help of the trained model, i have created an web application using django as backend, HTML, CSS and Javascript as frontend.
 - Finally the webapp is deployed on heroku cloud. Click this [link](http://bhp-online.herokuapp.com/) to use this app.
 
-# 🛠Installation:
+# ⚙Installation:
 - To install this project on your local system, go to a folder where you want to create this project.
 - Then open the command prompt and type the following commands:
 ```
@@ -22,7 +22,7 @@
 ```
  python manage.py runserver
 ```
-# Built with 🛠️
+# 🛠Tools Used
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
