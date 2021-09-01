@@ -6,7 +6,7 @@
 - This is a Regression based ML project where the end goal is to predict the house price based on area, number of bathrooms, number of rooms and location in Banglore city.
 - In this project, I have implemented many machine learning techniques like Data Cleaning, Feature Engineering, Outlier Detection and Removal, Dimensionality Reduction, Hyper    parameter tuning and Model Building.
 - With the help of the trained model, i have created an web application using django as backend, HTML, CSS and Javascript as frontend.
-- Finally the webapp is deployed on heroku cloud. Click this (link) [http://bhp-online.herokuapp.com/] to use this app.
+- Finally the webapp is deployed on heroku cloud. Click this [link](http://bhp-online.herokuapp.com/) to use this app.
 
 
 
