@@ -10,7 +10,11 @@
 
 # Installation:
 - To install this project on your local use the following commands:
-''' git init'''
+``` git init
+```
+```
+  git clone https://github.com/sudharsanbaskars/Banglore_Home_Price_Prediction/edit/main/README.md
+```
 
 
 
