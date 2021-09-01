@@ -42,7 +42,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 
-
+# 📞 Contact Me:
+- You all can contact me through my [LinkedIn](https://www.linkedin.com/in/sudharsan-b-9447a51ab/) account.
+- Feel Free to ask me any doubts regarding this project.
 
 
 
